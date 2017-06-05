@@ -18,7 +18,7 @@ The Academic framework enables you to easily create a beautifully simple persona
 
 Key features:
 
-- Easily manage your homepage, blog posts, publications, talks, and projects
+- Easily manage your homepage, blog posts, publications, talks, and projects*******************
 - Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact
 - Need a different section? Just use the Custom widget!
 - Write in [Markdown]({{< ref "post/writing-markdown-latex.md" >}}) for easy formatting and code highlighting, with [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) for mathematical expressions
