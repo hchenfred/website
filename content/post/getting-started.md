@@ -1,7 +1,7 @@
 +++
 date = "2017-06-03T12:00:00"
 draft = false
-tags = ["academic", "hugo"]
+tags = ["javascript", "hugo"]
 title = "Getting started with the Academic framework for Hugo"
 math = true
 summary = """
